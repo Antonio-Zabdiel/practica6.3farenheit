@@ -19,6 +19,10 @@ int main(){
     return 0;
 }
 
+/*
+    le agregas un valor de entrada (temperatura en grados)
+    el return tiene la exprecion que hace la conversion
+*/
 double Farenheit(float grad){
 
     return ((grad*1.8)+32);
